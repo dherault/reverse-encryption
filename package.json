@@ -1,0 +1,19 @@
+{
+  "name": "reverse-encryption",
+  "version": "0.0.0",
+  "description": "An encryption method",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/reverse-encryption.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dherault/reverse-encryption/issues"
+  },
+  "homepage": "https://github.com/dherault/reverse-encryption#readme"
+}
